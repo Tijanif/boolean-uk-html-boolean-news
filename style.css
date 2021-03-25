@@ -1,3 +1,13 @@
 .header {
   color: rgb(67, 75, 75);
 }
+
+#images {
+  text-align: center;
+}
+.pictures {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
